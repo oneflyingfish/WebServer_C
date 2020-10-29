@@ -9,7 +9,8 @@
 * 对HTTP、HTTPS的全面支持
 * Centent-Type的支持（对应Chunked模式）
 * 对分块传输的支持
-* 文件传输（断点续传）
+* 文件传输
+* 注：在HTTP层，仅完成部分头部协议识别，传输层与SSL层完成了封装，自适应HTTPS与HTTP数据报的传送
 
 ## 环境复现
 ```Bash
