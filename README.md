@@ -6,7 +6,7 @@
 开发环境：Ubuntu 20.04， gcc V9.3.0, OpenSSL 1.1.1
 
 ## 功能说明： 
-* 对HTTP、HTTPS的全面支持
+* 对HTTP、HTTPS的支持
 * Centent-Type的支持（对应Chunked模式）
 * 对分块传输的支持
 * 文件传输
