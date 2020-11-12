@@ -2,8 +2,8 @@
 基于C语言实现一个简易的Web服务器，支持Http和Https（基于OpenSSL的TLS协议）
 
 ## 开发环境：
-开发语言：C （部分测试网页涉及HTML+CSS内容，不影响功能）
-开发环境：Ubuntu 20.04， gcc V9.3.0, OpenSSL 1.1.1
+* 开发语言：C （部分测试网页涉及HTML+CSS内容，不影响功能）
+* 开发环境：Ubuntu 20.04， gcc V9.3.0, OpenSSL 1.1.1
 
 ## 功能说明： 
 * 对HTTP、HTTPS的支持
