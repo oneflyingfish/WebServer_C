@@ -27,3 +27,6 @@ make
 # 清理项目
 make clean
 ```
+
+## 附言
+关于如何创建测试用SSL证书，可参考我的[CSDN博客](https://blog.csdn.net/qq_36290650/article/details/109364017)
