@@ -32,4 +32,4 @@ make clean
 此项目为合作项目，由我和曹书瑜共同完成。
 
 ## 附言
-关于如何创建测试用SSL证书，可参考我的[博客](https://www.aflyingfish.top/2020/10/29/openssl-certificate-create/)
+关于如何创建测试用SSL证书，可参考我的[博客](https://www.aflyingfish.top/articles/d9a29d96e0ce/)
